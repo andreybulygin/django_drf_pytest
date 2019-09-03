@@ -18,3 +18,7 @@ You can supply an API of proven quality as a result, without the direct necessit
 
 * `make test` - this will build a test Docker image and run the tests automatically.
 You are expected to see a result like: ![example output](./test/test-result-example.png)
+
+## Entrypoint for self-study
+
+* https://github.com/andreybulygin/django_drf_pytest/blob/master/Makefile#L14
